@@ -2,6 +2,9 @@
     "author": "atroo",
     "license" : "ISC",
     "contributors": [{
+            "name": "Fabian Enos",
+            "email": "fabian.enos@gmail.com"
+    }, {
             "name": "atroo GbR",
             "email": "info@atroo.de"
     }, {
